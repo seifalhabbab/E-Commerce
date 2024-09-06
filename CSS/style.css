@@ -255,7 +255,7 @@ header .prof p:hover {
 } */
 .landing .image {
     min-height: calc(100vh - 80px);
-    background-image: url(../images/landing.jpg);
+    background-image: url(../Images/landing.jpg);
     background-size: cover;
     position: relative;
     background-position: top center;
