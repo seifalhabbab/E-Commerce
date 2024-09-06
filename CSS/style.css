@@ -896,6 +896,11 @@ header .prof p:hover {
     text-decoration: none;
     color: var(--main-color);
     font-size: 30px;
+    transition: var(--main-transition);
+    -webkit-transition: var(--main-transition);
+    -moz-transition: var(--main-transition);
+    -ms-transition: var(--main-transition);
+    -o-transition: var(--main-transition);
 }
 
 .footer .contact .phone a:hover {
@@ -920,6 +925,11 @@ header .prof p:hover {
     text-decoration: none;
     color: var(--main-color);
     font-size: 20px;
+    transition: var(--main-transition);
+    -webkit-transition: var(--main-transition);
+    -moz-transition: var(--main-transition);
+    -ms-transition: var(--main-transition);
+    -o-transition: var(--main-transition);
 }
 
 .footer .contact .email a:hover {
@@ -952,6 +962,11 @@ header .prof p:hover {
 
 .footer .social-cr .social i {
     color: var(--main-color);
+    transition: var(--main-transition);
+    -webkit-transition: var(--main-transition);
+    -moz-transition: var(--main-transition);
+    -ms-transition: var(--main-transition);
+    -o-transition: var(--main-transition);
 }
 
 .footer .social-cr .social i:hover {
@@ -969,6 +984,11 @@ header .prof p:hover {
 .footer .social-cr .copy a {
     text-decoration: none;
     color: var(--main-color);
+    transition: var(--main-transition);
+    -webkit-transition: var(--main-transition);
+    -moz-transition: var(--main-transition);
+    -ms-transition: var(--main-transition);
+    -o-transition: var(--main-transition);
 }
 
 .footer .social-cr .copy a:hover {
